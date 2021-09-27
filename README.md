@@ -14,6 +14,8 @@ Edit functionality would be only allowed if the used pressed the 'edit' button. 
 - https://github.com/JonasNev/Tiktak - a tiktak game made using JS. The game works but "computer" would need to be made smarted. Right now it's completely random, thus
 winning is easy.
 
+- GOING TO ADD RESTful API projects soonTM
+
 There are a lot more projects but they are not relevant. 
 
 Projects are sorted by date and is descending.
