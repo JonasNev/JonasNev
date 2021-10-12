@@ -5,8 +5,7 @@ I started my programming from JavaScript. Made all sorts of small projects to le
 I currently only use JS to help me with front end problems that I run into while using Razor (sadly it has a lot of limitation, not being a one page webpage)
 You can check out these ASP.NET Razor projects to see what I know how to do and what i have learnt:
 - Working on a project to send a message to certain friends that go online in STEAM. Getting data from Steam works, now needs message sending functionality. 
-- Next project will be Angular front with asp.net backend.
-- https://github.com/JonasNev/Company-API- - a project that uses RESTful API architecture to create a company database. CRUDE fully working, a little bit more functionality. Project uses Controller -> Service -> Repository principle -> Database interaction. Implemented generics in all used controllers, make every call to be async.
+- https://github.com/JonasNev/Company-API- - a project that uses RESTful API architecture to create a company database. CRUDE fully working, a little bit more functionality. Project uses Controller -> Service -> Repository principle -> Database interaction. Implemented generics in all used controllers, make every call to be async. Started to implement Angular frontend, nothing fancy but does its job. Updating daily.
 - https://github.com/JonasNev/IgnitisTask - a project created as an entry task solution for a certain company. Main functionality was supposed to be -
 "Allow users to add question to DB, load them using DB, assign answers to questions. Questions should have a selection of the possible answers as a dropdown list.
 - https://github.com/JonasNev/EFCoreBrokers - a project where I used EntityFramework Core (EF Core) to develop a basic CRUDE functionality. The project also has
