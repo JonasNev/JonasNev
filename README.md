@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JonasNev
 
-I am a Veterinary medicine Major, i study back-end development using C# language, i plan on working as a developer full time as soon as i finish my studies.
+I am a Veterinary medicine Major, I study back-end development using C# language, I plan on working as a developer full time as soon as i finish my studies.
 I started my programming from JavaScript. Made all sorts of small projects to learn most of the functions, method implementation and so on. 
 I currently only use JS to help me with front end problems that I run into while using Razor (sadly it has a lot of limitation, not being a one page webpage)
 You can check out these ASP.NET Razor projects to see what I know how to do and what i have learnt:
